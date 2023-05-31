@@ -1,4 +1,10 @@
-1.	diseño
+1.	1.	Diseño
+
+1.1	Diseño de alto nivel
+
+
+1.1.1	[Visión] (https://github.com/anyilondo/businees/blob/6020131f7fd065a34642b608437324fbab87cd82/vistaFuncional/vision.md)
+
 1.1 Diseño de alto nivel
 1.1.1 [Visión] (https://github.com/anyilondo/businees/blob/6020131f7fd065a34642b608437324fbab87cd82/vistaFuncional/vision.md)
 1.1.2 Restricciones de negocio.
