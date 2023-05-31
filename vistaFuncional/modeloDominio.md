@@ -42,5 +42,5 @@ Objeto que nos ayuda a diferenciar la materia prima y los productos ya que para 
 **Modelo de dominio**
 https://github.com/anyilondo/businees/blob/5d0ca80a0719726017bf11d317e92d9a67e59dea/imagenes/modelo%20dominio/Diagrama%20domi.png
 
-**Modelado de de dominio enriquesido**
+**Modelado de de dominio enriquesido*
 https://github.com/anyilondo/businees/blob/5d0ca80a0719726017bf11d317e92d9a67e59dea/imagenes/modelo%20dominio/Diagrama%20enriquesido.png
