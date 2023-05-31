@@ -1,4 +1,5 @@
-1 diseño
+1. diseño
+
 1.1 Diseño de alto nivel
 1.1.1 Visión .
 
