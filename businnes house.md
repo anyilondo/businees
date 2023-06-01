@@ -31,7 +31,7 @@
 ### Diseño detallado.
 1.2.1 Vista funcional.
 
-1.2.1.1.1 [Event Storming](
+1.2.1.1.1 [Event Storming](https://github.com/anyilondo/businees/blob/acfbefbd5ea3062e949f9c66fef78412c3cde75e/vistaFuncional/event%20storning.jpg)
 
 1.2.1.2 [Modelo de dominio](https://github.com/anyilondo/businees/blob/ab0d76ac3f3cbc03c2aa66fa8b6580107705f196/vistaFuncional/modeloDominio.md)
 
@@ -42,7 +42,6 @@
 ### Vista lógica
 1.2.2.1 [Diagrama de clases](https://github.com/anyilondo/businees/blob/ab0d76ac3f3cbc03c2aa66fa8b6580107705f196/vistaLogica/vista%20logica.md)
 
-1.2.2.2 [Diagrama de onbetos](
 
 1.2.2.3  [modelado de datos] (
 
