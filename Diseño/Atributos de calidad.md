@@ -24,3 +24,5 @@
 •	Capacidad para ser administrado: Se refiere a la capacidad del software para poder garantizar que el software pueda brindar información de relavancia al afminitrador o administradores del software, como también la capacidad de poder realizar cambios cuado los administradores lo requieren.
 
 •	Capacidad: Se refiere a la capacidad del software de poder generar el almacenamiento necesario para el uso de los usuarios al momento de usar el software.
+
+![](https://github.com/anyilondo/businees/blob/1a198e9b6ea96307e3202284aa59cef1ff285219/imagenes/drivers%20Arquitectonicos/atributos%20de%20calidas.PNG)
