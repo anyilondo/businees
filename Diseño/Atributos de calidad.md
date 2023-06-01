@@ -1,4 +1,5 @@
-**1.1.2.1.  ATRIBUTOS DE CALIDAD
+[](businnes house.md)
+**1.1.2.1 Atributos de calidad
 
 **1.1.2.1.2 CARACTERISTICAS
 
