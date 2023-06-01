@@ -13,5 +13,15 @@ java este lenguaje para implementar los algoritmos y fórmulas necesarias en la 
 
 Apache Superset herramientas populares para visualizar datos y crear paneles de control interactivos
 
-##  Plataforma Tecnologica
+##  Plataforma Tecnologica 
+
+Lenguajes de programación: java para desarrollar la lógica del negocio y la interacción con la base de datos.
+
+Bases de datos: PostgreSQL para su seguridad y conexión con el aplicativo
+
+InVision para la realizacion del front end del aplicativo ya que es muy intuitiva para el usuario 
+
+
+[<-volver]( https://github.com/anyilondo/businees/blob/085bec48921db243284b2817ae46ce60c478bee5/businnes%20house.md)
+
 
