@@ -1,4 +1,5 @@
-**1.1.2.1.  ATRIBUTOS DE CALIDAD 
+**1.1.2.1.  ATRIBUTOS DE CALIDAD
+
 **1.1.2.1.2 CARACTERISTICAS
 
 •	Seguridad: se refiere a la protección de los sistemas y datos contra amenazas y accesos no autorizados. Incluye medidas como autenticación, cifrado, control de acceso, detección de intrusiones y protección contra malware, con el fin de garantizar la privacidad, integridad y disponibilidad de la información.
