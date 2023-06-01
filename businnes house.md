@@ -2,7 +2,7 @@
 ### 1.1 Diseño de alto nivel
 1.1.1 [Visión](https://github.com/anyilondo/businees/blob/36f6f407e38061465837c6b51ff80dc5cb26489d/vistaFuncional/vision.md)
 
-1.1.2 Restricciones de negocio
+1.1.2 [Restricciones de negocio](
 
 1.1.2.1 [Atributos de calidad](https://github.com/anyilondo/businees/blob/ab0d76ac3f3cbc03c2aa66fa8b6580107705f196/Dise%C3%B1o/Atributos%20de%20calidad.md)
 
@@ -16,17 +16,16 @@
 
 1.1.2.2 [Funcionalidades criticas](https://github.com/anyilondo/businees/blob/ab0d76ac3f3cbc03c2aa66fa8b6580107705f196/imagenes/Funcionalidades%20primarias/Funcionalidades%20Primarias.PNG)
 
-1.1.2.3 Restriciones técnicas.
+1.1.2.3 [Restricciones Tecnicas](
 
-1.1.2.3 Restricciones de negocio.
 
 # 1.1.3  Alternativa de solucion
 
-1.1.3.2 Arquitectura de referencia.
+1.1.3.2  [Arquitectura Referencia](https://github.com/anyilondo/businees/blob/d52fbd90febe288c580deb03a810d46936b803c1/imagenes/alternativa%20de%20solucion/Arquitecturadereferencia.png)
 
-1.1.3.3 Arquetipo de solución.
+1.1.3.3 [Arquetipo solucion](https://github.com/anyilondo/businees/blob/d52fbd90febe288c580deb03a810d46936b803c1/imagenes/alternativa%20de%20solucion/ArquetipoSolucion%20busines.png)
 
-1.1.3.4 Plataforma tecnológica.
+1.1.3.4 [Plataforma Tecnologica](https://github.com/anyilondo/businees/blob/d52fbd90febe288c580deb03a810d46936b803c1/Alternativa%20de%20solucion/alternativa%20de%20solucion.md)
 
 ### Diseño detallado.
 1.2.1 [vist Funcional](https://github.com/anyilondo/businees/tree/719bbf0018c2b2e1273a465e8e59e071b90f351b/vistaFuncional)
