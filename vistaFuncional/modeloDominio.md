@@ -40,7 +40,8 @@ Objeto que no representa un valor exacto que se cobrará por la realización del
 Objeto que nos ayuda a diferenciar la materia prima y los productos ya que para obtener un producto vamos a utilizar variedad de materia prima y así mismo podemos obtener más de un producto
 
 **Modelo de dominio**
-https://github.com/anyilondo/businees/blob/5d0ca80a0719726017bf11d317e92d9a67e59dea/imagenes/modelo%20dominio/Diagrama%20domi.png
+![modelo de dominio](https://github.com/anyilondo/businees/blob/5d0ca80a0719726017bf11d317e92d9a67e59dea/imagenes/modelo%20dominio/Diagrama%20domi.png)
 
-**Modelado de de dominio enriquesido*
-https://github.com/anyilondo/businees/blob/5d0ca80a0719726017bf11d317e92d9a67e59dea/imagenes/modelo%20dominio/Diagrama%20enriquesido.png
+**Modelado de de dominio enriquesido
+
+![modelo enriquesido](https://github.com/anyilondo/businees/blob/f26f2e33b8ed3c6b2ca781033c36a5bffc6ea390/imagenes/modelo%20dominio/Diagrama%20enriquesido.png)
