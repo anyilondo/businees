@@ -2,7 +2,7 @@
 ### 1.1 Diseño de alto nivel
 1.1.1 [Visión](https://github.com/anyilondo/businees/blob/36f6f407e38061465837c6b51ff80dc5cb26489d/vistaFuncional/vision.md)
 
-1.1.2 [Restricciones de Diseñp](
+### 1.1.2 restrcciones de diseño
 
 1.1.2.1 [Atributos de calidad](https://github.com/anyilondo/businees/blob/ab0d76ac3f3cbc03c2aa66fa8b6580107705f196/Dise%C3%B1o/Atributos%20de%20calidad.md)
 
