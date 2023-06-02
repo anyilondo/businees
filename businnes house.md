@@ -14,7 +14,7 @@
 
 1.1.2.1.4 [tecnicas y estrategias](https://github.com/anyilondo/businees/blob/17a2b836093b1641edfe1a919b00a7896c5c6854/Dise%C3%B1o/tecnicas%20y%20estrategias.md)
 
-1.1.2.2 [Funcionalidades criticas](https://github.com/anyilondo/businees/blob/ab0d76ac3f3cbc03c2aa66fa8b6580107705f196/imagenes/Funcionalidades%20primarias/Funcionalidades%20Primarias.PNG)
+1.1.2.2 [Funcionalidades criticas](https://github.com/anyilondo/businees/blob/309eaa2fe0b89df0ea754d17fc19c0e0443766bc/imagenes/Funcionalidades%20primarias/Funcionalidades%20Criticas.md)
 
 1.1.2.3 [Restricciones de negocio](https://github.com/anyilondo/businees/blob/b6470cd296d471dd6b84e2fd4329df8ef8fd162e/Dise%C3%B1o/Restricciones%20del%20negocio.md)
 
@@ -30,7 +30,7 @@
 ### Diseño detallado.
 1.2.1 [vist Funcional](https://github.com/anyilondo/businees/tree/719bbf0018c2b2e1273a465e8e59e071b90f351b/vistaFuncional)
 
-1.2.1.1.1 [Event Storming](https://github.com/anyilondo/businees/blob/acfbefbd5ea3062e949f9c66fef78412c3cde75e/vistaFuncional/event%20storning.jpg)
+1.2.1.1.1 [Event Storming](https://github.com/anyilondo/businees/blob/685691468ecf29a1b7ac28f97969f36bf0aebeee/vistaFuncional/event%20stornig.md)
 
 1.2.1.2 [Modelo de dominio](https://github.com/anyilondo/businees/blob/ab0d76ac3f3cbc03c2aa66fa8b6580107705f196/vistaFuncional/modeloDominio.md)
 
