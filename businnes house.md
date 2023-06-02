@@ -48,4 +48,4 @@
 1.2.2.3.1 [Diagrama de Secuencia](https://github.com/anyilondo/businees/blob/ab0d76ac3f3cbc03c2aa66fa8b6580107705f196/Vista%20de%20Procesos/vista%20de%20proceso.md)
 
 ### Vista física.
-1.2.5.1 Diagrama de despligegue.
+1.2.5.1 [Diagrama De Despliegue](https://github.com/anyilondo/businees/blob/a5e31052100bc7e0fa2c9ef5cd03e130cbc6d903/Vista%20de%20Procesos/vista%20de%20proceso.md)
