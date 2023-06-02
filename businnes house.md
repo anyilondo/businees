@@ -6,13 +6,13 @@
 
 1.1.2.1 [Atributos de calidad](https://github.com/anyilondo/businees/blob/ab0d76ac3f3cbc03c2aa66fa8b6580107705f196/Dise%C3%B1o/Atributos%20de%20calidad.md)
 
-1.1.2.1.1 [mapa de empatia](https://github.com/anyilondo/businees/tree/ab0d76ac3f3cbc03c2aa66fa8b6580107705f196/imagenes/drivers%20Arquitectonicos)
+1.1.2.1.1 [mapa de empatia](https://github.com/anyilondo/businees/blob/e26218fc99cb0f3126eb0af34bba292920b6af0e/imagenes/drivers%20Arquitectonicos/Mapa%20Empatia.md)
 
-1.2.1.2.2 [Priorización](https://github.com/anyilondo/businees/blob/ab0d76ac3f3cbc03c2aa66fa8b6580107705f196/imagenes/drivers%20Arquitectonicos/caracteristicas.PNG)
+1.2.1.2.2 [Priorización](https://github.com/anyilondo/businees/blob/da593775fb8e1035e17114f00e3344d09b317a00/imagenes/drivers%20Arquitectonicos/Priorizacion.md)
 
 1.1.2.1.3 [Escenarios de calidad](https://github.com/anyilondo/businees/tree/ab0d76ac3f3cbc03c2aa66fa8b6580107705f196/imagenes/escenarios%20de%20calidad)
 
-1.1.2.1.4 Tacticas y estrategias.
+1.1.2.1.4 [tecnicas y estrategias](https://github.com/anyilondo/businees/blob/17a2b836093b1641edfe1a919b00a7896c5c6854/Dise%C3%B1o/tecnicas%20y%20estrategias.md)
 
 1.1.2.2 [Funcionalidades criticas](https://github.com/anyilondo/businees/blob/ab0d76ac3f3cbc03c2aa66fa8b6580107705f196/imagenes/Funcionalidades%20primarias/Funcionalidades%20Primarias.PNG)
 
