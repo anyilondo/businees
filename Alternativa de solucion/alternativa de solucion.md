@@ -3,7 +3,7 @@
 
 •	arquitectura de referencia propuesta para el aplicativo, consta de seguridad y herramientas utiles para las capas de procesamiento de datos los cuales se van a usar 
 
-##Arquetipo Solucion
+### Arquetipo solucion
 ![](https://github.com/anyilondo/businees/blob/666063c50fc15b12519669cb7f53a54fe6b8a082/imagenes/alternativa%20de%20solucion/ArquetipoSolucion%20busines.png)
 
 •	Se mantiene la arquitectura de referencia, pero añadiremos los softwares que nos ayudara a mantener el aplicativo y hacerlo más sencillo y seguro
