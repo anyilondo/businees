@@ -1,5 +1,7 @@
 [<-volver]( https://github.com/anyilondo/businees/blob/085bec48921db243284b2817ae46ce60c478bee5/businnes%20house.md)
 
+### Restricciones del Negocio
+
 1.	Acceso a datos precisos: Para realizar cálculos precisos de ganancias y pérdidas, es necesario tener acceso a datos actualizados y precisos sobre los costos de la materia prima, los gastos de inversión, los precios de venta.
 
 2.	estructuras de precios:. El aplicativo debe poder manejar estos diferentes modelos de precios  y calcular las ganancias y pérdidas de acuerdo con las especificidades de cada uno.
